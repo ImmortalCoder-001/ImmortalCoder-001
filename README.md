@@ -11,7 +11,6 @@
 
 **👀 First Time Here?** → Start with this overview
 **💼 Looking to Hire?** → [View My Work for Internships](./INTERNSHIPS.md)
-**🎓 University Admissions?** → [View My Academic Portfolio](./UNIVERSITIES.md)
 **🔍 Want to Explore?** → [Browse All Projects Below](#-my-projects)
 
 ---
