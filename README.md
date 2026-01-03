@@ -61,10 +61,6 @@
 - **Package Management:** NPM, package deployment
 - **Version Control:** Git, GitHub, issue solving
 
-### **Full-Stack Projects**
-- **Paytm/Wallet Clone:** End-to-end payment system
-- **E-commerce Platform:** Complete shopping experience
-- **Real-world Projects:** GSoC-style project setup and execution
 
 ### **Additional Skills**
 - **TypeScript:** Beginner to intermediate level
