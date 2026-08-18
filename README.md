@@ -19,7 +19,7 @@
 
 - 🎓 **Education:** VTU Engineering Student (5th Semester)
 - 💻 **Focus:** Full-Stack Web Development (Frontend + Backend + Database)
-- 🌍 **Goal:** Masters in Germany (Computer Science) | Secure Quality Internship
+
 
 ---
 
@@ -74,7 +74,7 @@
 ## 🚀 My Projects
 
 ### Featured Projects:
-1. **Amazon Clone** - E-commerce platform with React & Node.js
+1. **E-commerce** - E-commerce platform with React & Node.js
 2. **Coming Soon...** - More projects with advanced features
 
 ---
