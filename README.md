@@ -17,7 +17,7 @@
 
 ## 📊 About Me
 
-- 🎓 **Education:** VTU Engineering Student (5th Semester)
+- 🎓 **Education:** VTU Engineering Student 
 - 💻 **Focus:** Full-Stack Web Development (Frontend + Backend + Database)
 
 
